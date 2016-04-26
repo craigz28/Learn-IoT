@@ -1,6 +1,9 @@
 # Learn-IoT
 
 A list of items to help with learning about the Internet of Things (IoT)
+* Practical Reverse Engineering 
+* LoRaOne IoT Development Board
+* RPi IoT HAT
 * Bluetooth 101
 * Sparkfun IoT Starter Kit with Blynk Board
 * Guide to IoT series
