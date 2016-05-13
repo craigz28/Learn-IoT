@@ -1,7 +1,8 @@
 # Learn-IoT
 
 A list of items to help with learning about the Internet of Things (IoT)
-* Practical Reverse Engineering - http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+* Practical Reverse Engineering Part 1 - http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+* Practical Reverse Engineering Part 2 - http://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/
 * LoRaOne IoT Development Board
 * RPi IoT HAT
 * Bluetooth 101 - http://www.tomshardware.com/reviews/bluetooth-technology-101,4464.html
