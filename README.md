@@ -17,3 +17,8 @@ A list of items to help with learning about the Internet of Things (IoT)
 * Dragonboard 410C – Windows 10 IoT, Ubuntu Core
 * Azure IoT Kit
 * Arduino 101
+
+# Files
+
+Files used in videos posted to craigsmith.net
+* Netgear2.pcap - Pcap file used in Episode 18.1, "File Extraction from Network Capture".
